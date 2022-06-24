@@ -2,8 +2,8 @@ fx_version 'cerulean'
 
 game 'gta5'
 
-author 'Roderic#0614'
-description 'Example'
+author 'tavO#5849'
+description 'FogHud'
 
 --Client Scripts-- 
 client_scripts {
